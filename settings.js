@@ -48,15 +48,15 @@ global.ig = 'https://vm.tiktok.com/ZSddMePQN/' //Github Account!
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    admin: 'එය භාවිතා කළ හැක්කේ පරිපාලකයින්ට පමණි!😉',
+    botAdmin: 'මාව Admin කරන්න😥',
+    owner: 'මෙය භාවිතා කළ හැක්කේ හිමිකරුට පමණි!😉',
+    group: 'එය භාවිතා කල හැක්කේ ගෲප් වල පමනයි!',
+    private: 'එය භාවිතා කල හැක්කේ ඉන්බොස් වල පමනයි!',
+    bot: 'මෙම විශේෂාංගය Bot සඳහා පමණි😝',
+    wait: '👉රැදී සිටින්න👈',
+    error: 'ජෝශයක්🤔!',
+    endLimit: 'ඔබගේ දෛනික සීමාව කල් ඉකුත් වී ඇත, සීමාව සෑම පැය 12 කට වරක් නැවත සකසනු ලැබේ',
 }
 // DO NOT CHANGE \\
     global.limitawal = {
